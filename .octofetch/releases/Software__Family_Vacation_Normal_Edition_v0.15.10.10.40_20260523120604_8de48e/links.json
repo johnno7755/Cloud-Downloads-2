@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5806",
+  "folder": "Software__Family_Vacation_Normal_Edition_v0.15.10.10.40_20260523120604_8de48e",
+  "base_name": "Software__Family_Vacation_Normal_Edition_v0.15.10.10.40_20260523120604_8de48e.apk",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/johnno7755/Cloud-Downloads-2/releases/tag/co-releases-v1-5806",
+  "files": [
+    {
+      "name": "Software__Family_Vacation_Normal_Edition_v0.15.10.10.40_20260523120604_8de48e.apk",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-2/releases/download/co-releases-v1-5806/Software__Family_Vacation_Normal_Edition_v0.15.10.10.40_20260523120604_8de48e.apk",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-2/releases/assets/427856923",
+      "id": 427856923,
+      "size": 1529541735,
+      "download_count": 0
+    }
+  ]
+}
