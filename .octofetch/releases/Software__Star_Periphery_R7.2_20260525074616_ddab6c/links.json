@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2153",
+  "folder": "Software__Star_Periphery_R7.2_20260525074616_ddab6c",
+  "base_name": "Software__Star_Periphery_R7.2_20260525074616_ddab6c.apk",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/johnno7755/Cloud-Downloads-2/releases/tag/co-releases-v1-2153",
+  "files": [
+    {
+      "name": "Software__Star_Periphery_R7.2_20260525074616_ddab6c.apk",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-2/releases/download/co-releases-v1-2153/Software__Star_Periphery_R7.2_20260525074616_ddab6c.apk",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-2/releases/assets/429163591",
+      "id": 429163591,
+      "size": 1840337051,
+      "download_count": 0
+    }
+  ]
+}
